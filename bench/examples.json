@@ -1,0 +1,12 @@
+[
+  {"name":"add zero","source":"5f01","entry_height":1},
+  {"name":"xor self","source":"8018","entry_height":1},
+  {"name":"double complement","source":"1919","entry_height":1},
+  {"name":"duplicate then add","source":"8001","entry_height":1},
+  {"name":"legacy zero push","source":"6000","entry_height":0},
+  {"name":"fold wrapping subtraction","source":"60015f03","entry_height":0},
+  {"name":"swap before commutative add","source":"9001","entry_height":2},
+  {"name":"three zero checks","source":"151515","entry_height":1},
+  {"name":"unequal operand order","source":"9003","entry_height":2},
+  {"name":"gas win with smaller instruction count and larger literal","source":"600160f81b","entry_height":0}
+]
